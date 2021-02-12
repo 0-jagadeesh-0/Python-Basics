@@ -1,0 +1,31 @@
+num = 10
+weight = 42.5
+brand = "Twills"
+ans = True
+
+type(num) # Output : int
+type(weight) # Output : float
+type(brand) # Output : str
+type(ans) # Output : bool
+
+#Type Conversion
+
+#Integer to other data types
+float(num) # Output : 10.0
+str(num) # Output : 10
+bool(num) # Output : True
+
+#Float to other data types
+int(weight) # Output : 42
+str(weight) # Output : 42.5
+bool(weight) # Output : True
+
+#String to other data types
+int(brand) # Output : Traceback Error
+float(brand) # Output : Traceback Error
+bool(brand) # Output : True
+
+#Integer to other data types
+int(ans) # Output : 1
+float(num) # Output : 1.0
+str(num) # Output : True
