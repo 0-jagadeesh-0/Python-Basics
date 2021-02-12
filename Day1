@@ -1,0 +1,23 @@
+#Introduction to Python
+
+#Data Types in Pthon
+
+#Integer
+num = 12
+print(num) //output is 12
+
+#Float
+dec = 1.2
+print(num) //output is 1.2
+
+#String
+name = "Jagadeesh"
+print(name) // output is Jagadeesh
+
+#Boolean
+ans = True
+print(ans) // output is True
+
+
+
+
