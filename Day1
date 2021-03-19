@@ -8,7 +8,7 @@ print(num) # Output is 12
 
 #Float
 dec = 1.2
-print(num) # Output is 1.2
+print(dec) # Output is 1.2
 
 #String
 name = "Jagadeesh"
