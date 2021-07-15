@@ -1,4 +1,4 @@
-# A variable is created the moment you first assign a value to it.
+# A variable allows you to store a value by assigning it to name(identifier), which can be used to refer to the value later in the program.
 
 num = 3
 decimal = 2.3
