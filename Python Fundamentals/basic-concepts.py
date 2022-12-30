@@ -1,6 +1,7 @@
 # In python we use print statement to output text.
 
-print('Hello')
+print('Hello World')
+print("Namaste!")
 print('I am Jagadeesh')
 
 # Exponentiation
